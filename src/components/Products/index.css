@@ -1,0 +1,24 @@
+.title-page{
+    text-align:center;
+}
+.unordered-list{
+    display:flex;
+    width:100%;
+    flex-wrap:wrap;
+}
+.each-list-item {
+    list-style-type:none;
+    width:30%;
+}
+.text-decoration-products{
+    text-decoration:none;
+    color:black;
+    
+}
+.navbar-list{
+    list-style-type:none;
+}
+.unordered-list-navbar {
+    display:flex;
+    justify-content:space-between;
+}

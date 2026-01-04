@@ -1,0 +1,18 @@
+.text-decoration-products{
+    text-decoration:none;
+    color:black;
+    
+}
+.navbar-list{
+    list-style-type:none;
+}
+.unordered-list-navbar {
+    display:flex;
+    justify-content:space-between;
+} 
+.styling-of-inputs {
+    display:flex;
+    flex-direction:column;
+    width:30%;
+    margin-left:50px;
+}
